@@ -1,36 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![meethublogo](https://raw.githubusercontent.com/SrCidm/MeetHub-Meeting-page/230eb1831a16b103960f83cfd388bda7f4cae93f/public/meethub.svg)
+## MeetHub
 
-First, run the development server:
+MeetHub is a platform designed to facilitate the organization and management of business meetings and events. It offers features such as meeting scheduling, invitation management, calendar integration, and attendance tracking. Additionally, it provides tools for communication and collaboration among participants before, during, and after events. In summary, MeetHub is a comprehensive solution for optimizing the planning and execution of business meetings.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Developed
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![loginPage](https://github.com/SrCidm/MeetHub-Meeting-page/blob/main/public/screenshot(2).png?raw=true)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+MeetHub was developed using a combination of modern technologies. The backend was implemented using Firebase, a Google platform for mobile and web app development that provides cloud services such as real-time data storage and user authentication. For the frontend, React.js was used, a popular JavaScript framework for building interactive user interfaces. Tailwind CSS was employed for styling to streamline the development process and ensure consistent design. Additionally, complementary technologies like Next.js were employed for server-side rendering, along with various JavaScript packages and libraries for state management, routing, and other functionalities. React Email was utilized for building email templates and managing email communication within the application. In summary, MeetHub is a web application developed with modern technologies to ensure optimal performance and an intuitive user experience.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
